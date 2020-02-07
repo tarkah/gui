@@ -1,3 +1,5 @@
+#![windows_subsystem = "windows"]
+
 use failure::ResultExt;
 use futures::AsyncReadExt;
 use http_client::HttpClient;
