@@ -1088,7 +1088,7 @@ dependencies = [
 [[package]]
 name = "iced"
 version = "0.1.0-beta"
-source = "git+https://github.com/hecrj/iced#4e9e051caaf76e2c76aaa79c2463409a8280265f"
+source = "git+https://github.com/tarkah/iced?branch=power-fix#aee900906db353b23754d6843068b6cd24bc3468"
 dependencies = [
  "iced_futures",
  "iced_web",
@@ -1099,12 +1099,12 @@ dependencies = [
 [[package]]
 name = "iced_core"
 version = "0.1.0"
-source = "git+https://github.com/hecrj/iced#4e9e051caaf76e2c76aaa79c2463409a8280265f"
+source = "git+https://github.com/tarkah/iced?branch=power-fix#aee900906db353b23754d6843068b6cd24bc3468"
 
 [[package]]
 name = "iced_futures"
 version = "0.1.0-alpha"
-source = "git+https://github.com/hecrj/iced#4e9e051caaf76e2c76aaa79c2463409a8280265f"
+source = "git+https://github.com/tarkah/iced?branch=power-fix#aee900906db353b23754d6843068b6cd24bc3468"
 dependencies = [
  "async-std",
  "futures 0.3.4",
@@ -1115,7 +1115,7 @@ dependencies = [
 [[package]]
 name = "iced_native"
 version = "0.1.0"
-source = "git+https://github.com/hecrj/iced#4e9e051caaf76e2c76aaa79c2463409a8280265f"
+source = "git+https://github.com/tarkah/iced?branch=power-fix#aee900906db353b23754d6843068b6cd24bc3468"
 dependencies = [
  "iced_core",
  "iced_futures",
@@ -1127,7 +1127,7 @@ dependencies = [
 [[package]]
 name = "iced_style"
 version = "0.1.0-alpha"
-source = "git+https://github.com/hecrj/iced#4e9e051caaf76e2c76aaa79c2463409a8280265f"
+source = "git+https://github.com/tarkah/iced?branch=power-fix#aee900906db353b23754d6843068b6cd24bc3468"
 dependencies = [
  "iced_core",
 ]
@@ -1135,7 +1135,7 @@ dependencies = [
 [[package]]
 name = "iced_web"
 version = "0.1.0"
-source = "git+https://github.com/hecrj/iced#4e9e051caaf76e2c76aaa79c2463409a8280265f"
+source = "git+https://github.com/tarkah/iced?branch=power-fix#aee900906db353b23754d6843068b6cd24bc3468"
 dependencies = [
  "dodrio",
  "iced_core",
@@ -1150,7 +1150,7 @@ dependencies = [
 [[package]]
 name = "iced_wgpu"
 version = "0.1.0"
-source = "git+https://github.com/hecrj/iced#4e9e051caaf76e2c76aaa79c2463409a8280265f"
+source = "git+https://github.com/tarkah/iced?branch=power-fix#aee900906db353b23754d6843068b6cd24bc3468"
 dependencies = [
  "font-kit",
  "glam",
@@ -1167,7 +1167,7 @@ dependencies = [
 [[package]]
 name = "iced_winit"
 version = "0.1.0-alpha"
-source = "git+https://github.com/hecrj/iced#4e9e051caaf76e2c76aaa79c2463409a8280265f"
+source = "git+https://github.com/tarkah/iced?branch=power-fix#aee900906db353b23754d6843068b6cd24bc3468"
 dependencies = [
  "iced_native",
  "log",

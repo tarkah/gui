@@ -6,7 +6,7 @@ edition = "2018"
 
 
 [dependencies]
-iced = { git = "https://github.com/hecrj/iced", branch = "master", features = ['svg','async-std'] }
+iced = { git = "https://github.com/tarkah/iced", branch = "power-fix", features = ['svg','async-std'] }
 
 failure = "0.1"
 rand = "0.7"
